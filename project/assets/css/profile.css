@@ -1,0 +1,37 @@
+.data-alignment{
+	width: 750px;
+	margin: auto;
+	margin-top: 50px;
+}
+.text-font{
+	font-size: 20px;
+}
+body{
+	margin-bottom: 20px;
+	background-color:; 
+}
+hr{
+	border-top: 1px solid #ccc;
+}
+.text-alignment{
+	margin-top: 200px;
+}
+.text-alignment>h3>a {
+    margin-right: -20px;
+    font-size: 20px;
+    margin-left: -142px;
+    
+}
+.bg-img{
+	background-image: url(http://localhost/project/assets/img/dummy_profile.png);
+    background-size: 305px;
+    background-repeat: no-repeat;
+    margin-left: 25px;
+}
+
+
+
+
+
+
+

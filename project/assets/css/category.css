@@ -1,0 +1,29 @@
+.text-alignment {
+    background-color: #ccc;
+    font-size: 17px;
+    padding: 15px;
+    text-align: justify;
+}
+.text-justify{
+	background-color: #ccc;
+	
+	text-align: justify;
+}
+.text-justify>p{
+	padding: 0px 10px 0px 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

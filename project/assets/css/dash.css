@@ -1,0 +1,51 @@
+.header{
+	width: auto;
+	height: auto;
+	border: 1px solid #ccc;
+	padding: 24px;
+	background-color: #ccc;
+}
+.categories {
+    border: 1px solid #ccc;
+    background-color: #ccc;
+    text-align: justify;
+    margin-top: 20px;
+    padding-top: 0px;
+    margin-bottom: 10px;
+}
+body{
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+.categories>h1>a{
+	text-align: center;
+	padding: 10px;
+}
+.bg-img{
+	background-image: url(http://localhost/project/assets/img/dummy_profile.png);
+    background-size: 165px;
+    background-repeat: no-repeat;
+}
+.navbar-fixed-bottom,.navbar-fixed-top {
+    position: unset;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
